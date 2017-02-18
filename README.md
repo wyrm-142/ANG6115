@@ -35,7 +35,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image] ANG6115/2m_eastbay_merged.jpg
+![Image] (https://github.com/wyrm-142/ANG6115/blob/master/2m_eastbay_merged.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
